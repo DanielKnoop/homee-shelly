@@ -19,7 +19,7 @@ extern "C" {
 #include "tempSensor.h"
 }
 
-//Foreward Declarations
+//Forward Declarations
 void initializeDevice();
 
 const char* hostname = "shelly-i3-homee";
