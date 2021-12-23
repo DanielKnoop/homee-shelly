@@ -1,0 +1,29 @@
+{
+    "inputType": 
+    [
+        {
+            "id": 1,
+            "type": 0,
+            "enabled": true,
+            "doubleClickEnabled": true,
+            "longClickEnabled": true,
+            "gpio": 14
+        },
+        {
+            "id": 2,
+            "type": 0,
+            "enabled": false,
+            "doubleClickEnabled": true,
+            "longClickEnabled": true,
+            "gpio": 12
+        },
+        {
+            "id": 3,
+            "type": 1,
+            "enabled": true,
+            "doubleClickEnabled": false,
+            "longClickEnabled": false,
+            "gpio": 13
+        }
+    ]
+}
